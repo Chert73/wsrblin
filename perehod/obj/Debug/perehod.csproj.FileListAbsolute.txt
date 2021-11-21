@@ -1,0 +1,11 @@
+C:\Users\олег\Desktop\perehod\bin\Debug\perehod.exe.config
+C:\Users\олег\Desktop\perehod\bin\Debug\perehod.exe
+C:\Users\олег\Desktop\perehod\bin\Debug\perehod.pdb
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.csprojAssemblyReference.cache
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.Autoriz.resources
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.Registr.resources
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.Properties.Resources.resources
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.csproj.GenerateResource.cache
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.exe
+C:\Users\олег\Desktop\perehod\obj\Debug\perehod.pdb
